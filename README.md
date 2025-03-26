@@ -1,6 +1,6 @@
 Srija Merlyn Tupelly
 ✉️ srijamerlyntupelly@gmail.com  
-[![LinkedIn]()](https://linkedin.com/in/linkedin.com/in/srija-merlyn-tupelly-712529256) 
+https://www.linkedin.com/in/srija-merlyn-tupelly-712529256 
 
  Summary
 
