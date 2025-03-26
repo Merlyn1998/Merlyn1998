@@ -1,4 +1,52 @@
-## Srija Merlyn Tupelly<br><br>Cybersecurity Analyst | Python Developer | Cloud Security Enthusiast<br>✉️ srijamerlyntupelly@gmail.com  <br><br>As a dedicated Cybersecurity Analyst with a strong background in incident response and vulnerability management, I leverage my expertise in Python to automate security processes and enhance operational efficiency. My experience includes conducting security assessments, monitoring security alerts using Microsoft Sentinel, and collaborating with technical teams to remediate vulnerabilities.<br><br>### Skills:<br>- **Programming Languages:** Python, PowerShell, Bash, Java, HTML5, CSS, JavaScript, R, SQL (MySQL, PostgreSQL)<br>- **Tools:** Wireshark, Metasploit, Nessus, Splunk, Nagios, AWS, Azure<br>- **Frameworks:** NIST, CIS Controls, ISO 27001<br>- **Soft Skills:** Management, Problem Solving, Communication, Leadership<br><br>### Projects:<br>- Developed a Raspberry Pi-based health monitor with hybrid encryption for patient data confidentiality.<br>- Conducted DoS attack analysis to assess web server resilience and identified vulnerabilities.<br>- Automated AWS IAM policy management to enforce least privilege access.<br><br>### Certifications:<br>- AWS Cloud Practitioner<br>- Cyber Defense [TryHackMe]<br>- Offensive Penetration Testing [Cybrary]<br><br>---<br><br>I am committed to continuous learning in cybersecurity and cloud security practices, and I enjoy collaborating with both technical and non-technical teams to bridge gaps and drive improvements. Feel free to connect with me to discuss projects, collaborations, or cybersecurity insights!<br><br>--- <br><br>Feel free to customize any part of this introduction to better match your style or preferences!
+Srija Merlyn Tupelly
+✉️ srijamerlyntupelly@gmail.com   
+
+ Summary
+
+I am a proactive Cybersecurity Analyst specializing in incident response and vulnerability management. My expertise lies in utilizing Python to automate security processes, thereby enhancing operational efficiency. I have a strong background in conducting comprehensive security assessments, identifying potential risks, and implementing strategies to strengthen system security. I am dedicated to ongoing education and possess knowledge of cloud security practices across AWS and Azure. I am recognized for my effective communication and collaboration skills, which enable me to connect technical and non-technical teams seamlessly.
+
+### Education
+
+- **MS in Computer and Information Systems Security**  
+  University of North Texas, 2023
+
+- **BTech in Computer Science and Engineering**  
+  KL University, 2020
+
+### Technical Skills
+
+- **Programming Languages:** Python, PowerShell, Bash, Java, HTML5, CSS, JavaScript, R, SQL (MySQL, PostgreSQL)
+- **Penetration Testing Tools:** Wireshark, Metasploit, Kali Linux, Burp Suite, SQLMap
+- **Vulnerability and Network Security Tools:** Nessus, OpenVAS, Firewalls, Snort, Nmap
+- **Monitoring Tools:** Nagios, Splunk, Cisco Packet Tracker, Cyberark
+- **Security Frameworks:** NIST, CIS Controls, ISO 27001
+- **Forensics Tools:** Autopsy, FTK Imager
+- **Operating Systems:** Windows, macOS, Linux
+- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Project Management:** Agile (Jira), Waterfall (Microsoft Project)
+- **Version Control:** Git (GitHub, Bitbucket), ServiceNow, Jira
+- **Remote Support and IAM Tools:** Zoho Assist, RDP, Okta, Azure AD
+
+### Certifications
+
+- Career Essentials in GitHub Professional Certificate (GitHub)
+- Career Essentials in System Administration (Microsoft)
+- AWS Cloud Practitioner, Networking Core
+- Cyber Defense (TryHackMe)
+- Endpoint Security (Cisco)
+- Offensive Penetration Testing (Cybrary)
+- Web Application Penetration Testing (TryHackMe)
+
+### Soft Skills
+
+- Management
+- Problem Solving
+- Communication
+- Leadership
+
+---
+
+Feel free to modify any part as needed!
 
 
 ## 🌐 Socials:
