@@ -1,7 +1,6 @@
 Srija Merlyn Tupelly
-✉️ srijamerlyntupelly@gmail.com  \
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/srija-merlyn-tupelly-712529256) 
+✉️ srijamerlyntupelly@gmail.com  
+[![LinkedIn]()](https://linkedin.com/in/linkedin.com/in/srija-merlyn-tupelly-712529256) 
 
  Summary
 
