@@ -1,12 +1,16 @@
-Srija Merlyn Tupelly <br>
-✉️ srijamerlyntupelly@gmail.com  
-🔗[Linkedin](https://www.linkedin.com/in/srija-merlyn-tupelly-712529256)
+Here’s the revised version with the LinkedIn logo added:
 
- Summary
+---
+
+**Srija Merlyn Tupelly**  
+✉️ **Email:** srijamerlyntupelly@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/srija-merlyn-tupelly-712529256)  
+
+### 🌟 Summary
 
 I am a proactive Cybersecurity Analyst specializing in incident response and vulnerability management. My expertise lies in utilizing Python to automate security processes and enhance operational efficiency. I have a strong background in conducting comprehensive security assessments, identifying potential risks, and implementing strategies to strengthen system security. I am dedicated to ongoing education and possess knowledge of cloud security practices across AWS and Azure. I am recognized for my effective communication and collaboration skills, which enable me to connect technical and non-technical teams seamlessly.
 
-### Education
+### 🎓 Education
 
 - **MS in Computer and Information Systems Security**  
   University of North Texas, 2023
@@ -14,7 +18,7 @@ I am a proactive Cybersecurity Analyst specializing in incident response and vul
 - **BTech in Computer Science and Engineering**  
   KL University, 2020
 
-### Technical Skills
+### 🛠️ Technical Skills
 
 - **Programming Languages:** Python, PowerShell, Bash, Java, HTML5, CSS, JavaScript, R, SQL (MySQL, PostgreSQL)
 - **Penetration Testing Tools:** Wireshark, Metasploit, Kali Linux, Burp Suite, SQLMap
@@ -28,7 +32,7 @@ I am a proactive Cybersecurity Analyst specializing in incident response and vul
 - **Version Control:** Git (GitHub, Bitbucket), ServiceNow, Jira
 - **Remote Support and IAM Tools:** Zoho Assist, RDP, Okta, Azure AD
 
-### Certifications
+### 📜 Certifications
 
 - Career Essentials in GitHub Professional Certificate (GitHub)
 - Career Essentials in System Administration (Microsoft)
@@ -38,7 +42,7 @@ I am a proactive Cybersecurity Analyst specializing in incident response and vul
 - Offensive Penetration Testing (Cybrary)
 - Web Application Penetration Testing (TryHackMe)
 
-### Soft Skills
+### 💼 Soft Skills
 
 - Management
 - Problem Solving
