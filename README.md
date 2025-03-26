@@ -1,6 +1,6 @@
-Srija Merlyn Tupelly
+Srija Merlyn Tupelly <br>
 ✉️ srijamerlyntupelly@gmail.com  
-![Linkedin](https://www.linkedin.com/in/srija-merlyn-tupelly-712529256)
+[Linkedin](https://www.linkedin.com/in/srija-merlyn-tupelly-712529256)
 
  Summary
 
