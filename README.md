@@ -1,10 +1,10 @@
 Srija Merlyn Tupelly
 ✉️ srijamerlyntupelly@gmail.com  
-https://www.linkedin.com/in/srija-merlyn-tupelly-712529256 
+![Linkedin](https://www.linkedin.com/in/srija-merlyn-tupelly-712529256)
 
  Summary
 
-I am a proactive Cybersecurity Analyst specializing in incident response and vulnerability management. My expertise lies in utilizing Python to automate security processes, thereby enhancing operational efficiency. I have a strong background in conducting comprehensive security assessments, identifying potential risks, and implementing strategies to strengthen system security. I am dedicated to ongoing education and possess knowledge of cloud security practices across AWS and Azure. I am recognized for my effective communication and collaboration skills, which enable me to connect technical and non-technical teams seamlessly.
+I am a proactive Cybersecurity Analyst specializing in incident response and vulnerability management. My expertise lies in utilizing Python to automate security processes and enhance operational efficiency. I have a strong background in conducting comprehensive security assessments, identifying potential risks, and implementing strategies to strengthen system security. I am dedicated to ongoing education and possess knowledge of cloud security practices across AWS and Azure. I am recognized for my effective communication and collaboration skills, which enable me to connect technical and non-technical teams seamlessly.
 
 ### Education
 
